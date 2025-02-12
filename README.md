@@ -1,13 +1,13 @@
 # Character AI
 
 <p align="center">
-  <img src="assets/character_ai_1280_800_1.png" alt="AI Character Banner" width="800"/>
+  <img src="character_ai_1280_800_1.png" alt="AI Character Banner" width="800"/>
 </p>
 
 A browser extension that enhances your interaction with Character AI, providing instant answers and engaging conversations directly in your browser interface.
 
 <p align="center">
-  <img src="assets/character_ai_440_280.png" alt="AI Character Logo" width="220"/>
+  <img src="character_ai_440_280.png" alt="AI Character Logo" width="220"/>
 </p>
 
 ## Features
@@ -34,7 +34,7 @@ A browser extension that enhances your interaction with Character AI, providing 
   - Corporate Sustainability Officer
 
 <p align="center">
-  <img src="assets/character_ai_1280_800_2.png" alt="Chat Interface" width="800"/>
+  <img src="character_ai_1280_800_2.png" alt="Chat Interface" width="800"/>
 </p>
 
 ## Interface
@@ -46,7 +46,7 @@ A browser extension that enhances your interaction with Character AI, providing 
 - Real-time chat functionality with message input
 
 <p align="center">
-  <img src="assets/character_ai_1280_800_3.png" alt="User Interface Features" width="800"/>
+  <img src="character_ai_1280_800_3.png" alt="User Interface Features" width="800"/>
 </p>
 
 ## Additional Features
