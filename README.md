@@ -8,6 +8,7 @@ A browser extension that enhances your interaction with Character AI, providing 
 </p>
 
 
+
 ## Features
 
 - **Personalized Greetings**: Displays customized welcome messages with user's name
